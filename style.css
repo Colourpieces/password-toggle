@@ -1,0 +1,22 @@
+:root {
+  font-family: "Courier New", Courier, monospace;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  gap: 0.5rem;
+}
+
+button {
+  font-family: inherit;
+  font-weight: 600;
+  font-size: 1.5rem;
+}
+
+input {
+  font-family: inherit;
+  font-size: 1.5rem;
+}
